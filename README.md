@@ -16,8 +16,8 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yungju/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=safari&logoColor=white)](https://kimyungju.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yungju/)
 [![Email](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimyungju@u.nus.edu)
 
 ## 💻 Tech Stack:
