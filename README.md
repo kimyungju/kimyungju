@@ -10,9 +10,11 @@
 
 ### `//1` now
 
-- CS @ **National University of Singapore** — Year 3
-- **Software Engineer Intern @ Keppel** — May – Dec 2026
-- Building AI-native products shipped to real users
+```yaml
+school : National University of Singapore · Year 3
+role   : Software Engineer Intern @ Keppel · May – Dec 2026
+focus  : AI engineering · agents · retrieval
+```
 
 ### `//2` stack
 
@@ -24,12 +26,34 @@ data       → Postgres · Firebase · Vercel
 
 ### `//3` building
 
-- [**colonial-archives**](https://github.com/kimyungju/colonial-archives) — Graph-RAG over colonial-era records · `Python`
-- [**interview-pilot**](https://github.com/kimyungju/interview-pilot) — AI mock-interview platform · `Next.js`
-- [**pricewise**](https://github.com/kimyungju/pricewise) — agentic price comparison · `LangGraph`
-- [**fincast**](https://github.com/kimyungju/fincast) — realtime financial workspace · `Convex`
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/kimyungju/colonial-archives">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=colonial-archives&theme=github_dark&hide_border=true&description_lines_count=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kimyungju/interview-pilot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=interview-pilot&theme=github_dark&hide_border=true&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/kimyungju/pricewise">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=pricewise&theme=github_dark&hide_border=true&description_lines_count=2" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/kimyungju/fincast">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=fincast&theme=github_dark&hide_border=true&description_lines_count=2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-More at [**kimyungju.com**](https://kimyungju.com).
+<sub>more at <a href="https://kimyungju.com">kimyungju.com</a></sub>
 
 ### `//4` signal
 
@@ -45,4 +69,9 @@ More at [**kimyungju.com**](https://kimyungju.com).
 
 ### `//5` elsewhere
 
-[`portfolio`](https://kimyungju.com) · [`linkedin`](https://www.linkedin.com/in/yungju/) · [`email`](mailto:yjkim101002@gmail.com) · [`github`](https://github.com/kimyungju)
+<p>
+<a href="https://kimyungju.com"><img src="https://img.shields.io/badge/portfolio-161B22?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yungju/"><img src="https://img.shields.io/badge/linkedin-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:yjkim101002@gmail.com"><img src="https://img.shields.io/badge/email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+<a href="https://github.com/kimyungju"><img src="https://img.shields.io/badge/github-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
