@@ -8,13 +8,13 @@
 
 ---
 
-### `//1` now
+## 👋 About me
 
-<p><code>school</code>&emsp;National University of Singapore · Year 3</p>
-<p><code>role</code>&emsp;&emsp;&nbsp;Software Engineer Intern @ Keppel · May – Dec 2026</p>
-<p><code>focus</code>&emsp;&nbsp;AI engineering · agents · retrieval</p>
+- 🎓 **National University of Singapore**, Year 3 Computer Science
+- 💼 **Software Engineer Intern @ Keppel** — May – Dec 2026
+- 🎯 AI engineering · agents · retrieval · full-stack shipping
 
-### `//2` stack
+## 💻 Tech Stack
 
 **Languages**
 
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-### `//3` building
+## 🚀 Projects
 
 <table>
   <tr>
@@ -72,7 +72,7 @@
 </table>
 
 
-### `//4` signal
+## 📊 GitHub Stats
 
 <p>
   <img height="155" src="https://github-readme-stats.vercel.app/api?username=kimyungju&show_icons=true&hide_border=true&theme=github_dark&hide=issues&rank_icon=github" alt="stats" />
@@ -84,10 +84,8 @@
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/kimyungju/kimyungju/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### `//5` elsewhere
+## 🌐 Socials
 
-<p>
-<a href="https://kimyungju.com"><img src="https://img.shields.io/badge/Portfolio-kimyungju.com-21262D?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/yungju/"><img src="https://img.shields.io/badge/LinkedIn-%40yungju-21262D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>&nbsp;
-<a href="mailto:kimyungju@u.nus.edu"><img src="https://img.shields.io/badge/Email-kimyungju%40u.nus.edu-21262D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yungju/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=safari&logoColor=white)](https://kimyungju.com)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:kimyungju@u.nus.edu)
