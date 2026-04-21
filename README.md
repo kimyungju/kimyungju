@@ -10,18 +10,22 @@
 
 ### `//1` now
 
-```yaml
-school : National University of Singapore · Year 3
-role   : Software Engineer Intern @ Keppel · May – Dec 2026
-focus  : AI engineering · agents · retrieval
+```ts
+const me = {
+  school: "National University of Singapore · Year 3",
+  role:   "Software Engineer Intern @ Keppel · May – Dec 2026",
+  focus:  "AI engineering · agents · retrieval",
+};
 ```
 
 ### `//2` stack
 
 ```ts
-primary    → TypeScript · Next.js · Python
-ai-stack   → LangGraph · Graph-RAG · Convex · OpenAI · Anthropic
-data       → Postgres · Firebase · Vercel
+const stack = {
+  primary: ["TypeScript", "Next.js", "Python"],
+  aiStack: ["LangGraph", "Graph-RAG", "Convex", "OpenAI", "Anthropic"],
+  data:    ["Postgres", "Firebase", "Vercel"],
+};
 ```
 
 ### `//3` building
@@ -53,7 +57,7 @@ data       → Postgres · Firebase · Vercel
   </tr>
 </table>
 
-<sub>more at <a href="https://kimyungju.com">kimyungju.com</a></sub>
+<p align="right"><sub><a href="https://kimyungju.com"><code>// more at kimyungju.com →</code></a></sub></p>
 
 ### `//4` signal
 
