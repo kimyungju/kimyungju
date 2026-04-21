@@ -14,6 +14,12 @@
 - 💼 **Software Engineer Intern @ Keppel** — May – Dec 2026
 - 🎯 AI engineering · agents · retrieval · full-stack shipping
 
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yungju/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=safari&logoColor=white)](https://kimyungju.com)
+[![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:kimyungju@u.nus.edu)
+
 ## 💻 Tech Stack
 
 **Languages**
@@ -83,9 +89,3 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kimyungju/kimyungju/output/github-contribution-grid-snake-dark.svg" />
   <img alt="snake eating contributions" src="https://raw.githubusercontent.com/kimyungju/kimyungju/output/github-contribution-grid-snake.svg" />
 </picture>
-
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yungju/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=safari&logoColor=white)](https://kimyungju.com)
-[![Email](https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white)](mailto:kimyungju@u.nus.edu)
