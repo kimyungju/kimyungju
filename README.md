@@ -10,23 +10,34 @@
 
 ### `//1` now
 
-```ts
-const me = {
-  school: "National University of Singapore · Year 3",
-  role:   "Software Engineer Intern @ Keppel · May – Dec 2026",
-  focus:  "AI engineering · agents · retrieval",
-};
-```
+<p><code>school</code>&emsp;National University of Singapore · Year 3</p>
+<p><code>role</code>&emsp;&emsp;&nbsp;Software Engineer Intern @ Keppel · May – Dec 2026</p>
+<p><code>focus</code>&emsp;&nbsp;AI engineering · agents · retrieval</p>
 
 ### `//2` stack
 
-```ts
-const stack = {
-  primary: ["TypeScript", "Next.js", "Python"],
-  aiStack: ["LangGraph", "Graph-RAG", "Convex", "OpenAI", "Anthropic"],
-  data:    ["Postgres", "Firebase", "Vercel"],
-};
-```
+<p>
+<code>primary</code><br>
+<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
+</p>
+
+<p>
+<code>ai-stack</code><br>
+<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph--RAG-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/Convex-161B22?style=flat-square&logoColor=EE342F" />
+<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-161B22?style=flat-square" />
+</p>
+
+<p>
+<code>data</code><br>
+<img src="https://img.shields.io/badge/Postgres-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" />
+<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+</p>
 
 ### `//3` building
 
@@ -57,7 +68,6 @@ const stack = {
   </tr>
 </table>
 
-<p align="right"><sub><a href="https://kimyungju.com"><code>// more at kimyungju.com →</code></a></sub></p>
 
 ### `//4` signal
 
@@ -76,6 +86,5 @@ const stack = {
 <p>
 <a href="https://kimyungju.com"><img src="https://img.shields.io/badge/portfolio-161B22?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/yungju/"><img src="https://img.shields.io/badge/linkedin-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:yjkim101002@gmail.com"><img src="https://img.shields.io/badge/email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-<a href="https://github.com/kimyungju"><img src="https://img.shields.io/badge/github-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:yjkim101002@gmail.com"><img src="https://img.shields.io/badge/email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
