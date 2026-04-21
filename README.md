@@ -16,27 +16,30 @@
 
 ### `//2` stack
 
-<p>
-<code>primary</code><br>
-<img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-161B22?style=flat-square&logo=python&logoColor=3776AB" />
-</p>
+**Languages**
 
 <p>
-<code>ai-stack</code><br>
-<img src="https://img.shields.io/badge/LangGraph-161B22?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Graph--RAG-161B22?style=flat-square" />
-<img src="https://img.shields.io/badge/Convex-161B22?style=flat-square&logoColor=EE342F" />
-<img src="https://img.shields.io/badge/OpenAI-161B22?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Anthropic-161B22?style=flat-square" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+**Frameworks & AI**
+
 <p>
-<code>data</code><br>
-<img src="https://img.shields.io/badge/Postgres-161B22?style=flat-square&logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/Firebase-161B22?style=flat-square&logo=firebase&logoColor=FFCA28" />
-<img src="https://img.shields.io/badge/Vercel-161B22?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Graph--RAG-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Convex-EE342F?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-D4A574?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+**Data & Infrastructure**
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### `//3` building
@@ -84,7 +87,7 @@
 ### `//5` elsewhere
 
 <p>
-<a href="https://kimyungju.com"><img src="https://img.shields.io/badge/portfolio-161B22?style=for-the-badge&logo=safari&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/yungju/"><img src="https://img.shields.io/badge/linkedin-161B22?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:yjkim101002@gmail.com"><img src="https://img.shields.io/badge/email-161B22?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://kimyungju.com"><img src="https://img.shields.io/badge/Portfolio-kimyungju.com-21262D?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/yungju/"><img src="https://img.shields.io/badge/LinkedIn-%40yungju-21262D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>&nbsp;
+<a href="mailto:kimyungju@u.nus.edu"><img src="https://img.shields.io/badge/Email-kimyungju%40u.nus.edu-21262D?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" /></a>
 </p>
