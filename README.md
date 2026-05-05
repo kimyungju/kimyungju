@@ -59,24 +59,24 @@
   <tr>
     <td>
       <a href="https://github.com/kimyungju/colonial-archives">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=colonial-archives&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
+        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=colonial-archives&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kimyungju/interview-pilot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=interview-pilot&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
+        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=interview-pilot&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/kimyungju/pricewise">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=pricewise&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
+        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=pricewise&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
       </a>
     </td>
     <td>
       <a href="https://github.com/kimyungju/fincast">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kimyungju&repo=fincast&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
+        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=fincast&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
       </a>
     </td>
   </tr>
