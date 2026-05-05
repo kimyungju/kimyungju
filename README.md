@@ -86,8 +86,8 @@
 ## 📊 GitHub Stats
 
 <p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=kimyungju&show_icons=true&hide_border=true&theme=github_dark&hide=issues&rank_icon=github" alt="stats" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimyungju&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="top-langs" />
+  <img height="155" src="https://github-readme-stats-gold-mu-91.vercel.app/api?username=kimyungju&show_icons=true&hide_border=true&theme=github_dark&hide=issues&rank_icon=github" alt="stats" />
+  <img height="155" src="https://github-readme-stats-gold-mu-91.vercel.app/api/top-langs/?username=kimyungju&layout=compact&hide_border=true&langs_count=8&theme=github_dark" alt="top-langs" />
 </p>
 
 <picture>
