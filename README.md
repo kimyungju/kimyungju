@@ -76,7 +76,7 @@
     </td>
     <td>
       <a href="https://https://github.com/kimyungju/castory">
-        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=castory&theme=github_dark&hide_border=true&description_lines_count=2&v=3" />
+        <img src="https://github-readme-stats-gold-mu-91.vercel.app/api/pin/?username=kimyungju&repo=castory&theme=github_dark&hide_border=true&description_lines_count=2&v=4" />
       </a>
     </td>
   </tr>
